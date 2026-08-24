@@ -1,0 +1,6 @@
+{
+  "name": "SERCAN EKEN - Resmi Web Sitesi",
+  "description": "Türk müzik sanatçısı Sercan Eken'in resmi web sitesi. Şarkılar, video klipler, biyografi, galeri ve iletişim bilgileri.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
